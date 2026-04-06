@@ -8,7 +8,7 @@
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
       "open_app_ads":"ca-app-pub-7615880214648928/4716953363",
-      "interval_intertitial": 5,
+      "interval_intertitial": 3,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -105,6 +105,10 @@
 	{
       "name_category": "RONALDO",
       "wallpaper_url": "https://i.pinimg.com/736x/25/64/75/256475931756e466162a8c0293bfdef2.jpg"
+    },
+	{
+      "name_category": "MESSI",
+      "wallpaper_url": "https://i.pinimg.com/736x/c7/40/5d/c7405d92caca306c919baf2416080337.jpg"
     }
 	
   ],
@@ -1704,6 +1708,216 @@
       "wallpaper_name": "RONALDO 228",
       "wallpaper_type": "IMAGE",
       "wallpaper_url": "https://i.pinimg.com/736x/7b/e6/69/7be669cdf4b630bc2b459cc0e2b1b592.jpg"
+    },
+	{
+      "id": 229,
+      "name_category": "MESSI",
+      "wallpaper_name": "MESSI 229",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/9e/9d/5d/9e9d5d75136e8b35f5b0c98f5631c22d.jpg"
+    },
+	{
+      "id": 230,
+      "name_category": "MESSI",
+      "wallpaper_name": "MESSI 230",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/6d/7a/bc/6d7abc9dbdd3e21201a69a5eec684ffb.jpg"
+    },
+	{
+      "id": 231,
+      "name_category": "MESSI",
+      "wallpaper_name": "MESSI 231",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/3f/7e/c5/3f7ec558e1b14797c1bd05a995714644.jpg"
+    },
+	{
+      "id": 232,
+      "name_category": "MESSI",
+      "wallpaper_name": "MESSI 232",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/46/5f/f6/465ff632453035513f7f25c4a46f46de.jpg"
+    },
+	{
+      "id": 233,
+      "name_category": "MESSI",
+      "wallpaper_name": "MESSI 233",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/46/13/44/461344ac05926dc0784d4f1405a07735.jpg"
+    },
+	{
+      "id": 234,
+      "name_category": "MESSI",
+      "wallpaper_name": "MESSI 234",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/24/35/b2/2435b2c983d3e33bfb6a015c5ab883c7.jpg"
+    },
+	{
+      "id": 235,
+      "name_category": "MESSI",
+      "wallpaper_name": "MESSI 235",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/de/ee/bc/deeebcbca5655e9608da2c5908158a64.jpg"
+    },
+	{
+      "id": 236,
+      "name_category": "MESSI",
+      "wallpaper_name": "MESSI 236",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/f5/22/d6/f522d6f89e1178a6b90ad414a08f2b85.jpg"
+    },
+	{
+      "id": 237,
+      "name_category": "MESSI",
+      "wallpaper_name": "MESSI 237",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/6b/71/29/6b7129ce11652bfe63464be3882d92e4.jpg"
+    },
+	{
+      "id": 238,
+      "name_category": "MESSI",
+      "wallpaper_name": "MESSI 238",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/0f/df/81/0fdf816b599e12b365ee090b848cd1fd.jpg"
+    },
+	{
+      "id": 239,
+      "name_category": "MESSI",
+      "wallpaper_name": "MESSI 239",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/03/27/18/03271832ce52e29d90560e50212c1f36.jpg"
+    },
+	{
+      "id": 240,
+      "name_category": "MESSI",
+      "wallpaper_name": "MESSI 240",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/c4/3f/a4/c43fa4803ba86f0cdcf208c0d71b8dd3.jpg"
+    },
+	{
+      "id": 241,
+      "name_category": "MESSI",
+      "wallpaper_name": "MESSI 241",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/8e/b3/27/8eb327d43d25f5a8a59789eccd1b710f.jpg"
+    },
+	{
+      "id": 242,
+      "name_category": "MESSI",
+      "wallpaper_name": "MESSI 242",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/30/df/87/30df8762f5247c9e0b1120af80d31e59.jpg"
+    },
+	{
+      "id": 243,
+      "name_category": "MESSI",
+      "wallpaper_name": "MESSI 243",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/15/8b/11/158b11bf6c193cfccd8a28a14b80b437.jpg"
+    },
+	{
+      "id": 244,
+      "name_category": "MESSI",
+      "wallpaper_name": "MESSI 244",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/76/92/15/7692153e7c5f3273fa9cd9dd8c0c7029.jpg"
+    },
+	{
+      "id": 245,
+      "name_category": "MESSI",
+      "wallpaper_name": "MESSI 245",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/c7/40/5d/c7405d92caca306c919baf2416080337.jpg"
+    },
+	{
+      "id": 246,
+      "name_category": "MESSI",
+      "wallpaper_name": "MESSI 246",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/41/4f/d4/414fd4284651317f27f822a240f4ea44.jpg"
+    },
+	{
+      "id": 247,
+      "name_category": "MESSI",
+      "wallpaper_name": "MESSI 247",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/26/a3/77/26a377b75dcca07e7d7d5f364a176b8f.jpg"
+    },
+	{
+      "id": 248,
+      "name_category": "MESSI",
+      "wallpaper_name": "MESSI 248",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/1200x/d7/e4/6f/d7e46fdb020227f071cf5c720ab01337.jpg"
+    },
+	{
+      "id": 249,
+      "name_category": "MESSI",
+      "wallpaper_name": "MESSI 249",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/8c/48/fa/8c48faa57555387b5491c92a966b2721.jpg"
+    },
+	{
+      "id": 250,
+      "name_category": "MESSI",
+      "wallpaper_name": "MESSI 250",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/b0/f4/fc/b0f4fcc3a2a6004c62c9af49786313df.jpg"
+    },
+	{
+      "id": 251,
+      "name_category": "MESSI",
+      "wallpaper_name": "MESSI 251",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/64/5d/a5/645da5edac62a09eb5ea6e2c99ac9ab2.jpg"
+    },
+	{
+      "id": 252,
+      "name_category": "MESSI",
+      "wallpaper_name": "MESSI 252",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/dc/06/a2/dc06a2adc6762e553db2ee63cd806872.jpg"
+    },
+	{
+      "id": 253,
+      "name_category": "MESSI",
+      "wallpaper_name": "MESSI 253",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/66/cb/e6/66cbe69975db143ed178a6d057773f44.jpg"
+    },
+	{
+      "id": 254,
+      "name_category": "MESSI",
+      "wallpaper_name": "MESSI 254",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/f2/83/4b/f2834be66073a88b3a0c316df71ecf07.jpg"
+    },
+	{
+      "id": 255,
+      "name_category": "MESSI",
+      "wallpaper_name": "MESSI 255",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/1200x/26/30/eb/2630eba0a3a2b43f0631c172aed6a05a.jpg"
+    },
+	{
+      "id": 256,
+      "name_category": "MESSI",
+      "wallpaper_name": "MESSI 256",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/fe/53/14/fe531419cc91bcd24655ff350c40d19f.jpg"
+    },
+	{
+      "id": 257,
+      "name_category": "MESSI",
+      "wallpaper_name": "MESSI 257",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/bd/51/1c/bd511caab30790766831e96ba006a60e.jpg"
+    },
+	{
+      "id": 258,
+      "name_category": "MESSI",
+      "wallpaper_name": "MESSI 258",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/1200x/f9/c5/7c/f9c57c38d01bd4f2246d2a5498a97cf3.jpg"
     }
   ]
 }
