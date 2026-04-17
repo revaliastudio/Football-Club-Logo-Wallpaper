@@ -2090,6 +2090,7 @@
       "wallpaper_name": "NEYMAR JR 282",
       "wallpaper_type": "IMAGE",
       "wallpaper_url": "https://i.pinimg.com/736x/ff/43/30/ff433056930658afaf1c3936c8f7a7c8.jpg"
+	},  
 	{
       "id": 283,
       "name_category": "NEYMAR JR",
@@ -2167,5 +2168,6 @@
       "wallpaper_type": "IMAGE",
       "wallpaper_url": "https://i.pinimg.com/1200x/12/65/2a/12652ad6fdc4e89dd858cff8d2f24257.jpg"
     }
+	
   ]
 }
